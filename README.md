@@ -1,7 +1,7 @@
 rudate
 ======
 
-Rudate shows date in traditional for Russia format.
+Rudate shows date in traditional Russian format.
 
 Rudate показывает дату в формате, традиционном для России, ряда стран восточной Европы и Азии (бывших республик СССР):
 
